@@ -33,4 +33,4 @@ The following steps are performed by run_analysis.R to generate tidy.txt:
 
 •	Bind the "test" and "train" data
 
-•	Use the dcast function to apply mean to the full table
+•	Use the dcast function to apply mean to the full table, and create the data_tidy.txt file
